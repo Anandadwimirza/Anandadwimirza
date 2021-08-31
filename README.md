@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ananda_mrz
+- or ananda120206@gmail.com
 
 <!---
 Anandadwimirza/Anandadwimirza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
