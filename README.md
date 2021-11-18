@@ -5,7 +5,7 @@
 ## I'm a Student At IDN Boarding School 
 
 - 🌱 I’m currently learning Kotlin and Web Dev
-- 🔭 I’m not an expert yet so right now i currently focusing on learning 😅
+- 🔭 I’m not an expert yet so right now i currently focusing on learning Kotlin and Web Dev 😅
 - 📫 How to reach me : [Instagram](https://www.instagram.com/ananda_mrz/) [Email](mailto:ananda120206@gmail.com)
 
 <br>
