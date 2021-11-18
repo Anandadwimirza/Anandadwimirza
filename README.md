@@ -10,8 +10,8 @@
 
 <br>
 
-### My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandadwimirza&theme=aura_dark&show_icons=true)
+<!-- ### My Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandadwimirza&theme=aura_dark&show_icons=true) -->
 
 
 ### My Language and Tools:
