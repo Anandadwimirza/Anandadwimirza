@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kakyooiin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kakyooiin?ref_src=twsrc%5Etfw)
 
-## I'm a Student At IDN Boarding School !!
+## I'm a Student At IDN Boarding School 
 
 - 🌱 I’m currently learning Kotlin and Web Dev
 - 🔭 I’m not an expert yet so right now i currently focusing on learning 😅
