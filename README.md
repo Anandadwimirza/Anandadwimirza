@@ -1,6 +1,6 @@
-### Hi there, I'm Ananda Dwi Mirza 👋 
+## Hi there, I'm Ananda Dwi Mirza 👋 
 
-## I'm a Student At IDN Boarding School 
+### I'm a Student At IDN Boarding School 
 
 - 🌱 I’m currently learning Kotlin and Web Dev
 - 🔭 I’m not an expert yet so right now i currently focusing on learning Kotlin and Web Dev 😅
@@ -8,8 +8,8 @@
 
 <br>
 
-<!-- ### My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandadwimirza&theme=aura_dark&show_icons=true) -->
+### My Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwimirza&theme=aura_dark&show_icons=true)
 
 
 ### My Language and Tools:
